@@ -1,0 +1,5 @@
+conda create -n gluoncv
+conda activate gluoncv
+pip install gluoncv --upgrade
+conda install mxnet
+conda install matplotlib
